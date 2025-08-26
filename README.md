@@ -31,9 +31,9 @@
 ###
 
 <div align="center">
-  <a href="https://astounding-speculoos-21ada4.netlify.app/" target="_blank">
-    <img src="https://i.imgflip.com/a48731.gif" height="52" width="260" alt="prediction-arena"  />
-  </a>
+
+[![prediction-arena](https://i.imgflip.com/a48731.gif)](https://astounding-speculoos-21ada4.netlify.app/)
+
 </div>
 
 <div align="center">
