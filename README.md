@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://astounding-speculoos-21ada4.netlify.app/" target="_blank">
-    <img src="https://imgflip.com/gif/a48731" height="52" width="260" alt="prediction-arena"  />
+    <img src="https://i.imgflip.com/a48731.gif" height="52" width="260" alt="prediction-arena"  />
   </a>
 </div>
 
