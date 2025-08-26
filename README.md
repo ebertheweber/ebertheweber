@@ -31,6 +31,12 @@
 ###
 
 <div align="center">
+  <a href="https://astounding-speculoos-21ada4.netlify.app/" target="_blank">
+    <img src="https://imgflip.com/gif/a48731" height="52" width="260" alt="prediction-arena"  />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/enes.eber/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
