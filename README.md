@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![prediction-arena](https://i.imgflip.com/a48731.gif)](https://astounding-speculoos-21ada4.netlify.app/)
+
 
 </div>
 
